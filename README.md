@@ -1,2 +1,3 @@
-# leetcode
-Leetcode projects done by myself
+# Horoscope scraping api
+
+get the daily horoscope prediction for a given sign

@@ -1,0 +1,19 @@
+{
+  "name": "scrapeapi",
+  "version": "1.0.0",
+  "description": "Leetcode projects done by myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonfal/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonfal/leetcode/issues"
+  },
+  "homepage": "https://github.com/leonfal/leetcode#readme"
+}
